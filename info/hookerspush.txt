@@ -5,7 +5,7 @@
 **TOP:** 2nd Wisconsin
 - Springfield '61
 **BOTTOM:** 1st USSS
-- Sharps '59
+- Sharps
 
 **CSA**
 
@@ -15,23 +15,3 @@
 **BOTTOM:** 6th Louisiana
 - Springfield '55
 - Enfield '53
-
-
-**USA ARTILLERY**
-*"Matthews" Battery*
-- 3x 12lb Napoleons
-- 3x 10lb Parrot Rifles
-*"Thompson" Battery*
-- 2x 12lb Napoleon
-- 2x 3inch Ordnance
-
-**CSA ARTILLERY**
-*"Brockenbrough" BATTERY*
-- 3x 12lb Napoleon
-- 3x 10lb Parrot Rifles
-*"Jordan" BATTERY*
-- 1x 12lb Napoleon
-- 1x 3inch Ordnance
-*"Poague" BATTERY*
-- 2x 12lb Napoleon
-- 1x 3inch Ordnance

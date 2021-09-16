@@ -4,8 +4,7 @@
 
 **TOP:** 28th Massachusetts
 - Enfield '53
-**BOTTOM:** 17th Michigan
-- Springfield '55
+**BOTTOM:** 28th Pennsylvania
 - Springfield '61
 
 **CSA**
@@ -17,14 +16,3 @@
 - Mississippi '41
 - Whitworth Rifle
 - Enfield '53
-
-
-**USA ARTILLERY**
-*"COOK" Battery*
-- 2x 12lb Napoleons
-- 2x 3inch Ordnance
-
-**CSA ARTILLERY**
-*"MAURIN" BATTERY*
-- 2x 12lb Napoleon
-- 2x 10lb Parrot Rifles

@@ -1,6 +1,6 @@
 # Vanguard Intelligence
  
- Discord Bot developed to automate tasks & increase productivity in the "PV Cav" discord server for playing the game "War of Rights"
+Data repository for a Discord Bot developed to automate tasks & increase productivity in the "PV Cav" discord server for playing the game "War of Rights"
 
 Functions:
 
